@@ -3,7 +3,7 @@
 Este repositório é dedicado à prática e aprimoramento de habilidades em CSS, complementando o projeto HTML existente.
 
 ## Conteúdo
-- HTML base do repositório [meu-website-html](link_do_repo)
+- HTML base do repositório [meu-pessoal-website-html](https://github.com/devmoisessantos/meu-pessoal-website-html)
 - Arquivos CSS para estilização e melhorias visuais
 
 ## Objetivo
